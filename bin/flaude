@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+'use strict';
+// Thin launcher so `flaude` works when installed via npm/`npm link`.
+require('../flaude.js');

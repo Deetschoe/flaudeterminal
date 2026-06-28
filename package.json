@@ -1,0 +1,28 @@
+{
+  "name": "flaude",
+  "version": "0.1.0",
+  "description": "Flaude — a smooth fluorescent shader that runs in your terminal. Zero dependencies, pure ANSI truecolor.",
+  "bin": {
+    "flaude": "bin/flaude"
+  },
+  "main": "flaude.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node flaude.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "terminal",
+    "shader",
+    "tui",
+    "ansi",
+    "truecolor",
+    "fluorescent",
+    "rainbow",
+    "creative-coding"
+  ],
+  "author": "Serenidad",
+  "license": "MIT"
+}

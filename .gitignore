@@ -1,0 +1,12 @@
+# Private business / strategy — NEVER commit to a public repo.
+# This folder holds the Flaude ULTRAPLAN, competitor intel, and business case.
+business-idea-of-flaude/
+competitor.md
+flow-website-prompt.md
+
+# macOS cruft
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
